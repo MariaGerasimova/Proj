@@ -6,5 +6,11 @@ public class MainApplication {
         System.out.println("111155");
         System.out.println("88888");
         System.out.println("bbbbb");
+        System.out.println("----");
+
+    }
+    public static void doSomething () {
+        System.out.println("00000");
+
     }
 }
